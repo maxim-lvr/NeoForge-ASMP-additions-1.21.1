@@ -1,0 +1,13 @@
+{
+  "parent": "asmpthingsmodadd:custom/pt_011_pos_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/pt_011_pos_base_texture",
+    "particle": "asmpthingsmodadd:block/pt_011_pos_base_texture",
+    "pt_011_pos_base_texture": "asmpthingsmodadd:block/pt_011_pos_base_texture",
+    "pt_011_pos_reader_texture": "asmpthingsmodadd:block/pt_011_pos_reader_texture",
+    "pt_011_pos_screen_texture": "asmpthingsmodadd:block/pt_011_pos_screen_texture",
+    "pt_011_pos_screen_os_texture": "asmpthingsmodadd:block/pt_011_pos_screen_os_texture"
+  },
+  "render_type": "solid"
+}

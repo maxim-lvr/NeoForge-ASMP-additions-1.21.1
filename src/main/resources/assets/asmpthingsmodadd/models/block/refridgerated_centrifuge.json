@@ -1,0 +1,10 @@
+{
+  "parent": "asmpthingsmodadd:custom/pt_005_cent_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/pm_005_cent_texture",
+    "particle": "asmpthingsmodadd:block/pm_005_cent_texture",
+    "pm_005_cent_texture": "asmpthingsmodadd:block/pm_005_cent_texture"
+  },
+  "render_type": "solid"
+}

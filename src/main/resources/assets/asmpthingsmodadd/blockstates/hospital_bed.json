@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "asmpthingsmodadd:block/hospital_bed"
+    },
+    "facing=east": {
+      "model": "asmpthingsmodadd:block/hospital_bed",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "asmpthingsmodadd:block/hospital_bed",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "asmpthingsmodadd:block/hospital_bed",
+      "y": 270
+    }
+  }
+}

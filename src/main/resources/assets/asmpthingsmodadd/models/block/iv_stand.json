@@ -1,0 +1,10 @@
+{
+  "parent": "asmpthingsmodadd:custom/hw_005_iv_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/hw_005_iv_texture",
+    "particle": "asmpthingsmodadd:block/hw_005_iv_texture",
+    "hw_005_iv_texture": "asmpthingsmodadd:block/hw_005_iv_texture"
+  },
+  "render_type": "solid"
+}

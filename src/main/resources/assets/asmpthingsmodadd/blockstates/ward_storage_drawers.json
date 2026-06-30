@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "asmpthingsmodadd:block/ward_storage_drawers"
+    },
+    "facing=east": {
+      "model": "asmpthingsmodadd:block/ward_storage_drawers",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "asmpthingsmodadd:block/ward_storage_drawers",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "asmpthingsmodadd:block/ward_storage_drawers",
+      "y": 270
+    }
+  }
+}

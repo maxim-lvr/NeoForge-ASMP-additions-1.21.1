@@ -1,0 +1,14 @@
+{
+  "parent": "asmpthingsmodadd:custom/hmxt_ultrasound_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/ultrasound_keyboard",
+    "particle": "asmpthingsmodadd:block/ultrasound_keyboard",
+    "ultrasound_base_texture": "asmpthingsmodadd:block/ultrasound_base_texture",
+    "ultrasound_interface": "asmpthingsmodadd:block/ultrasound_interface",
+    "ultrasound_controls_texture": "asmpthingsmodadd:block/ultrasound_controls_texture",
+    "ultrasound_screen_texture": "asmpthingsmodadd:block/ultrasound_screen_texture",
+    "ultrasound_keyboard": "asmpthingsmodadd:block/ultrasound_keyboard"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "asmpthingsmodadd:custom/hmxt_trolley_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/brushed_metal_texture",
+    "particle": "asmpthingsmodadd:block/brushed_metal_texture",
+    "brushed_metal_texture": "asmpthingsmodadd:block/brushed_metal_texture",
+    "wheels_texture": "asmpthingsmodadd:block/wheels_texture"
+  },
+  "render_type": "solid"
+}

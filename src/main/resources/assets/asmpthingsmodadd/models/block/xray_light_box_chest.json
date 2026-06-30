@@ -1,0 +1,11 @@
+{
+  "parent": "asmpthingsmodadd:custom/hr_004_light_box_modelchest",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/hr_004_light_blank",
+    "particle": "asmpthingsmodadd:block/hr_004_light_blank",
+    "hr_004_light_blank": "asmpthingsmodadd:block/hr_004_light_chest",
+    "hr_004_light_box_main": "asmpthingsmodadd:block/hr_004_light_box_main"
+  },
+  "render_type": "solid"
+}

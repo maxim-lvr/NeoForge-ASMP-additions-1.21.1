@@ -1,0 +1,11 @@
+{
+  "parent": "asmpthingsmodadd:custom/hw_009_resus_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/hw_009_resus_label",
+    "particle": "asmpthingsmodadd:block/hw_009_resus_label",
+    "hw_009_resus_label": "asmpthingsmodadd:block/hw_009_resus_label",
+    "hw_009_resus_texture": "asmpthingsmodadd:block/hw_009_resus_texture"
+  },
+  "render_type": "solid"
+}

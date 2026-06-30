@@ -1,0 +1,14 @@
+{
+  "parent": "asmpthingsmodadd:custom/hmxt_surgical_light_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/ceiling_rose_texture",
+    "particle": "asmpthingsmodadd:block/ceiling_rose_texture",
+    "upper_arm_1_texture": "asmpthingsmodadd:block/upper_arm_1_texture",
+    "lamp_diffuser_texture": "asmpthingsmodadd:block/lamp_diffuser_texture",
+    "ceiling_rose_texture": "asmpthingsmodadd:block/ceiling_rose_texture",
+    "lamp_1_texture": "asmpthingsmodadd:block/lamp_1_texture",
+    "lower_arm_1_texture": "asmpthingsmodadd:block/lower_arm_1_texture"
+  },
+  "render_type": "solid"
+}

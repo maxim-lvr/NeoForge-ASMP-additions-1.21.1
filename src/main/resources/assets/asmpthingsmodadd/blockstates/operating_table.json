@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "asmpthingsmodadd:block/operating_table"
+    },
+    "facing=east": {
+      "model": "asmpthingsmodadd:block/operating_table",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "asmpthingsmodadd:block/operating_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "asmpthingsmodadd:block/operating_table",
+      "y": 270
+    }
+  }
+}

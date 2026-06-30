@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "asmpthingsmodadd:block/ultrasound"
+    },
+    "facing=east": {
+      "model": "asmpthingsmodadd:block/ultrasound",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "asmpthingsmodadd:block/ultrasound",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "asmpthingsmodadd:block/ultrasound",
+      "y": 270
+    }
+  }
+}

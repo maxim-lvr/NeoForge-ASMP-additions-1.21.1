@@ -1,0 +1,10 @@
+{
+  "parent": "asmpthingsmodadd:custom/pt_004_analytical_balance_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/pt_004_analytical_balance_texture",
+    "particle": "asmpthingsmodadd:block/pt_004_analytical_balance_texture",
+    "pt_004_analytical_balance_texture": "asmpthingsmodadd:block/pt_004_analytical_balance_texture"
+  },
+  "render_type": "solid"
+}

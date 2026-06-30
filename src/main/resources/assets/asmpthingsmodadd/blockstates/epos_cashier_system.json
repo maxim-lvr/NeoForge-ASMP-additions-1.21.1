@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "asmpthingsmodadd:block/epos_cashier_system"
+    },
+    "facing=east": {
+      "model": "asmpthingsmodadd:block/epos_cashier_system",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "asmpthingsmodadd:block/epos_cashier_system",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "asmpthingsmodadd:block/epos_cashier_system",
+      "y": 270
+    }
+  }
+}

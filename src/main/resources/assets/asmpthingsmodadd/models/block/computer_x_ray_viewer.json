@@ -1,0 +1,12 @@
+{
+  "parent": "asmpthingsmodadd:custom/hr_007_xray2_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/hr_007_xray_viewer_1",
+    "particle": "asmpthingsmodadd:block/hr_007_xray_viewer_1",
+    "hw_007_keyboard": "asmpthingsmodadd:block/hw_007_keyboard",
+    "hr_007_computer_main": "asmpthingsmodadd:block/hr_007_computer_main",
+    "hr_007_xray_viewer": "asmpthingsmodadd:block/hr_007_xray_viewer_1"
+  },
+  "render_type": "solid"
+}

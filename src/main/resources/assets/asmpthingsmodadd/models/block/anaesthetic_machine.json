@@ -1,0 +1,13 @@
+{
+  "parent": "asmpthingsmodadd:custom/hmxt_anaesthetic_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/anaesthetic_texture",
+    "particle": "asmpthingsmodadd:block/anaesthetic_texture",
+    "screen_cover_texture": "asmpthingsmodadd:block/screen_cover_texture",
+    "anaesthetic_screen_texture": "asmpthingsmodadd:block/anaesthetic_screen_texture",
+    "anaesthetic_texture": "asmpthingsmodadd:block/anaesthetic_texture",
+    "anaesthetic_screen_texture_2": "asmpthingsmodadd:block/anaesthetic_screen_texture_2"
+  },
+  "render_type": "solid"
+}

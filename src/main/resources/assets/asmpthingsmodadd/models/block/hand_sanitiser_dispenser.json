@@ -1,0 +1,11 @@
+{
+  "parent": "asmpthingsmodadd:custom/hw_11_sanitiser_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/hw_11_sanitiser_label",
+    "particle": "asmpthingsmodadd:block/hw_11_sanitiser_label",
+    "hw_11_sanitiser_main": "asmpthingsmodadd:block/hw_11_sanitiser_main",
+    "hw_11_sanitiser_label": "asmpthingsmodadd:block/hw_11_sanitiser_label"
+  },
+  "render_type": "solid"
+}

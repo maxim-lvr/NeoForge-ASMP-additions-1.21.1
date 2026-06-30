@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/compass_15"
+  },
+  "overrides": [
+    { "predicate": { "angle": 0.0000000 }, "model": "minecraft:item/compass" },
+    { "predicate": { "angle": 0.0156250 }, "model": "minecraft:item/compass_17" },
+    { "predicate": { "angle": 0.0468750 }, "model": "minecraft:item/compass_18" },
+    { "predicate": { "angle": 0.0781250 }, "model": "minecraft:item/compass_19" },
+    { "predicate": { "angle": 0.1093750 }, "model": "minecraft:item/compass_20" },
+    { "predicate": { "angle": 0.1406250 }, "model": "minecraft:item/compass_21" },
+    { "predicate": { "angle": 0.1718750 }, "model": "minecraft:item/compass_22" },
+    { "predicate": { "angle": 0.2031250 }, "model": "minecraft:item/compass_23" },
+    { "predicate": { "angle": 0.2343750 }, "model": "minecraft:item/compass_24" },
+    { "predicate": { "angle": 0.2656250 }, "model": "minecraft:item/compass_25" },
+    { "predicate": { "angle": 0.2968750 }, "model": "minecraft:item/compass_26" },
+    { "predicate": { "angle": 0.3281250 }, "model": "minecraft:item/compass_27" },
+    { "predicate": { "angle": 0.3593750 }, "model": "minecraft:item/compass_28" },
+    { "predicate": { "angle": 0.3906250 }, "model": "minecraft:item/compass_29" },
+    { "predicate": { "angle": 0.4218750 }, "model": "minecraft:item/compass_30" },
+    { "predicate": { "angle": 0.4531250 }, "model": "minecraft:item/compass_31" },
+    { "predicate": { "angle": 0.4843750 }, "model": "minecraft:item/compass_00" },
+    { "predicate": { "angle": 0.5156250 }, "model": "minecraft:item/compass_01" },
+    { "predicate": { "angle": 0.5468750 }, "model": "minecraft:item/compass_02" },
+    { "predicate": { "angle": 0.5781250 }, "model": "minecraft:item/compass_03" },
+    { "predicate": { "angle": 0.6093750 }, "model": "minecraft:item/compass_04" },
+    { "predicate": { "angle": 0.6406250 }, "model": "minecraft:item/compass_05" },
+    { "predicate": { "angle": 0.6718750 }, "model": "minecraft:item/compass_06" },
+    { "predicate": { "angle": 0.7031250 }, "model": "minecraft:item/compass_07" },
+    { "predicate": { "angle": 0.7343750 }, "model": "minecraft:item/compass_08" },
+    { "predicate": { "angle": 0.7656250 }, "model": "minecraft:item/compass_09" },
+    { "predicate": { "angle": 0.7968750 }, "model": "minecraft:item/compass_10" },
+    { "predicate": { "angle": 0.8281250 }, "model": "minecraft:item/compass_11" },
+    { "predicate": { "angle": 0.8593750 }, "model": "minecraft:item/compass_12" },
+    { "predicate": { "angle": 0.8906250 }, "model": "minecraft:item/compass_13" },
+    { "predicate": { "angle": 0.9218750 }, "model": "minecraft:item/compass_14" },
+    { "predicate": { "angle": 0.9531250 }, "model": "minecraft:item/compass_15" },
+    { "predicate": { "angle": 0.9843750 }, "model": "minecraft:item/compass_15" }
+  ]
+}

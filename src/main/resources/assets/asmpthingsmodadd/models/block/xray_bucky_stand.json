@@ -1,0 +1,10 @@
+{
+  "parent": "asmpthingsmodadd:custom/hr_005_xray_stand_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/hr_006_xray_stand_texture",
+    "particle": "asmpthingsmodadd:block/hr_006_xray_stand_texture",
+    "hr_006_xray_stand_texture": "asmpthingsmodadd:block/hr_006_xray_stand_texture"
+  },
+  "render_type": "solid"
+}

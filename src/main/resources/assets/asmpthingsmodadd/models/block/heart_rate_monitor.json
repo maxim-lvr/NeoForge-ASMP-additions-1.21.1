@@ -1,0 +1,11 @@
+{
+  "parent": "asmpthingsmodadd:custom/hw_008_heartrate_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/hw_008_hr_screen",
+    "particle": "asmpthingsmodadd:block/hw_008_hr_screen",
+    "hw_008_heartrate_texture": "asmpthingsmodadd:block/hw_008_heartrate_texture",
+    "hw_008_hr_screen": "asmpthingsmodadd:block/hw_008_hr_screen"
+  },
+  "render_type": "solid"
+}

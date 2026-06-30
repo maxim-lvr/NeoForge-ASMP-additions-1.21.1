@@ -1,0 +1,11 @@
+{
+  "parent": "asmpthingsmodadd:custom/surgical_instruments_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/brushed_metal_texture",
+    "particle": "asmpthingsmodadd:block/brushed_metal_texture",
+    "stainless_steel_texture": "asmpthingsmodadd:block/stainless_steel_texture",
+    "ht_instrument_tray": "asmpthingsmodadd:block/ht_instrument_tray"
+  },
+  "render_type": "solid"
+}

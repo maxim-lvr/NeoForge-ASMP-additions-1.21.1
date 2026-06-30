@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "asmpthingsmodadd:block/refridgerated_centrifuge"
+    },
+    "facing=east": {
+      "model": "asmpthingsmodadd:block/refridgerated_centrifuge",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "asmpthingsmodadd:block/refridgerated_centrifuge",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "asmpthingsmodadd:block/refridgerated_centrifuge",
+      "y": 270
+    }
+  }
+}

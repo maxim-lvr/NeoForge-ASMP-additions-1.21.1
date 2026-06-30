@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "asmpthingsmodadd:item/based_card"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "asmpthingsmodadd:role_view": 0.1
+      },
+      "model": "asmpthingsmodadd:item/role_card_loup"
+    },
+    {
+      "predicate": {
+        "asmpthingsmodadd:role_view": 0.2
+      },
+      "model": "asmpthingsmodadd:item/role_card_cupidon"
+    },
+    {
+      "predicate": {
+        "asmpthingsmodadd:role_view": 0.3
+      },
+      "model": "asmpthingsmodadd:item/role_card_chasseur"
+    },
+    {
+      "predicate": {
+        "asmpthingsmodadd:role_view": 0.4
+      },
+      "model": "asmpthingsmodadd:item/role_card_sorciere"
+    },
+    {
+      "predicate": {
+        "asmpthingsmodadd:role_view": 0.5
+      },
+      "model": "asmpthingsmodadd:item/role_card_petite_fille"
+    },
+    {
+      "predicate": {
+        "asmpthingsmodadd:role_view": 0.6
+      },
+      "model": "asmpthingsmodadd:item/role_card_voyante"
+    },
+    {
+      "predicate": {
+        "asmpthingsmodadd:role_view": 0.7
+      },
+      "model": "asmpthingsmodadd:item/role_card_villageois"
+    }
+  ]
+}

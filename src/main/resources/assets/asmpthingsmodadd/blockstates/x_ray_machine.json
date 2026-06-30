@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "asmpthingsmodadd:block/x_ray_machine"
+    },
+    "facing=east": {
+      "model": "asmpthingsmodadd:block/x_ray_machine",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "asmpthingsmodadd:block/x_ray_machine",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "asmpthingsmodadd:block/x_ray_machine",
+      "y": 270
+    }
+  }
+}

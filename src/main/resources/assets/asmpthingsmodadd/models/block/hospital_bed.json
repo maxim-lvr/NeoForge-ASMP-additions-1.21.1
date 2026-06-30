@@ -1,0 +1,10 @@
+{
+  "parent": "asmpthingsmodadd:custom/hw004_bed_model",
+  "ambientocclusion": false,
+  "textures": {
+    "all": "asmpthingsmodadd:block/hw_004_hospital_bed_texture",
+    "particle": "asmpthingsmodadd:block/hw_004_hospital_bed_texture",
+    "hw_004_hospital_bed_texture": "asmpthingsmodadd:block/hw_004_hospital_bed_texture"
+  },
+  "render_type": "cutout_mipped"
+}

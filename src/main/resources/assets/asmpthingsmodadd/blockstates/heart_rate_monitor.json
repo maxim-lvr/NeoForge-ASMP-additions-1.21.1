@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "asmpthingsmodadd:block/heart_rate_monitor"
+    },
+    "facing=east": {
+      "model": "asmpthingsmodadd:block/heart_rate_monitor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "asmpthingsmodadd:block/heart_rate_monitor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "asmpthingsmodadd:block/heart_rate_monitor",
+      "y": 270
+    }
+  }
+}
